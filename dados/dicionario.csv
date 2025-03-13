@@ -1,0 +1,21 @@
+id_tabela,nome_coluna,chave,cobertura_temporal,valor
+microdados,beneficiario_deficiente,0,(1),Não
+microdados,sexo,1,(1),Feminino
+microdados,beneficiario_deficiente,1,(1),Sim
+microdados,raca_cor,1,(1),Amarela
+microdados,modalidade_ensino,1,(1),Presencial
+microdados,tipo_bolsa,1,(1),Integral
+microdados,turno_curso,1,(1),Matutino
+microdados,sexo,2,(1),Masculino
+microdados,turno_curso,2,(1),Vespertino
+microdados,tipo_bolsa,2,(1),Parcial (50%)
+microdados,modalidade_ensino,2,(1),EAD
+microdados,raca_cor,2,(1),Branca
+microdados,raca_cor,3,(1),Indígena
+microdados,tipo_bolsa,3,(1),Complementar (25%)
+microdados,turno_curso,3,(1),Noturno
+microdados,raca_cor,4,(1),Parda
+microdados,turno_curso,4,(1),Integral
+microdados,turno_curso,5,(1),Curso à Distancia
+microdados,raca_cor,5,(1),Preta
+microdados,raca_cor,6,(1),Não Informada
